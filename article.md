@@ -1,0 +1,61 @@
+# Rivans Fraternity: 47 Years of Brotherhood, Service, and Leadership in the Philippines
+
+**By Rivans Fraternity Communications**  
+**Published:** June 10, 2026  
+**Category:** Community | Fraternities & Sororities | Philippine Organizations
+
+## Summary
+
+**Pagadian City, Zamboanga del Sur** — Established on November 18, 1978, the **Rivulet Sigma Omega Beta Society**, widely known as the **Rivans Fraternity**, continues to stand as one of Mindanao’s respected service-oriented fraternities and sororities. Now celebrating its 47th year, the organization remains committed to its founding ideals of brotherhood, community service, leadership development, and social responsibility.
+
+## History and Founding
+
+The Rivans was founded in Pagadian City by **Kap Ronald "Roy" L. Gillamac** together with a small group of visionary individuals. What began as a local fraternity has since grown into a national organization with active members and alumni across the Philippines.
+
+The organization is officially registered with the Securities and Exchange Commission (SEC) and carries the public Greek name **“Juncti Juvant”** (United We Serve).
+
+**Official Motto:** *Huwag mang-api at huwag magpa-api*  
+**Warcry:** *“Solido Rivano!”*
+
+## Core Values and Principles
+
+Guided by the principles of **Brotherhood, Service, and Leadership**, the Rivans emphasize:
+- Lifelong camaraderie and mutual respect
+- Personal and professional development of members
+- Active contribution to community welfare
+- Academic excellence and ethical leadership
+
+Members are known for their distinctive handshake and symbolic markings that represent unity and commitment to the fraternity’s ideals.
+
+## Community Service and Impact
+
+True to its service-oriented nature, the Rivans actively participates in various socio-civic initiatives, including:
+- Community feeding programs for children in Pagadian City
+- Environmental initiatives and donation drives (e.g., Environmental Frontliners)
+- School maintenance and volunteer activities (recognized by DepEd)
+- Educational mentorship and leadership training
+- Disaster response and relief efforts
+
+## Legacy and Future
+
+After nearly five decades, the Rivans Fraternity has produced thousands of professionals and leaders who continue to uphold the organization’s values. Alumni networks remain strong, supporting current chapters and mentoring the next generation.
+
+As it enters its fifth decade, the Rivans continues to adapt while staying true to its founding vision — proving that fraternal organizations can be powerful forces for positive social change in the Philippines.
+
+## Official Channels
+
+- **Website**: [rivansfraternity.github.io](https://rivansfraternity.github.io)
+- **GitHub**: [github.com/rivansfraternity](https://github.com/rivansfraternity)
+- **Facebook**: [facebook.com/rivansfraternity](https://facebook.com/rivansfraternity)
+- **Crunchbase**: [Rivans Fraternity](https://www.crunchbase.com/organization/rivans-fraternity)
+
+![Rivans Logo](https://upload.wikimedia.org/wikipedia/commons/8/86/Rivans_Logo_%282%29.jpg)
+
+---
+
+## References
+
+1. Official Rivans Fraternity Website
+2. EverybodyWiki – Rivulet Sigma Omega Beta Society
+3. Crunchbase Organization Profile
+4. Wikidata – Q140136808
