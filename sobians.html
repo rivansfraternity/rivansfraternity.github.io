@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rivans Fraternity | Rivulet Sigma Omega Beta Society</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Playfair+Display:wght@700&display=swap');
+        
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+            color: #333;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            background: white;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+        
+        header {
+            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://upload.wikimedia.org/wikipedia/commons/e/ed/Rivans_Logo.png') center/cover no-repeat;
+            color: white;
+            text-align: center;
+            padding: 120px 20px 80px;
+            position: relative;
+        }
+        
+        .logo {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            border: 6px solid white;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+            margin-bottom: 20px;
+        }
+        
+        h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 3.2rem;
+            margin: 15px 0;
+            text-shadow: 0 4px 10px rgba(0,0,0,0.6);
+        }
+        
+        .tagline {
+            font-size: 1.4rem;
+            opacity: 0.95;
+        }
+        
+        .motto {
+            font-style: italic;
+            font-size: 1.3rem;
+            margin-top: 25px;
+            color: #f1f5f9;
+        }
+        
+        nav {
+            background: #1e40af;
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin: 0;
+            padding: 0;
+        }
+        
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s;
+        }
+        
+        nav a:hover {
+            color: #bae6fd;
+        }
+        
+        section {
+            padding: 70px 60px;
+        }
+        
+        h2 {
+            color: #1e40af;
+            border-bottom: 3px solid #3b82f6;
+            padding-bottom: 12px;
+            font-size: 2.2rem;
+        }
+        
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 30px;
+            margin-top: 30px;
+        }
+        
+        .card {
+            background: #f8fafc;
+            border-radius: 12px;
+            padding: 28px;
+            box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+            transition: transform 0.3s;
+        }
+        
+        .card:hover {
+            transform: translateY(-8px);
+        }
+        
+        .fact-label {
+            font-weight: 600;
+            color: #1e40af;
+            display: block;
+            margin-bottom: 8px;
+            font-size: 1.05rem;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            background: white;
+        }
+        
+        th, td {
+            padding: 16px 20px;
+            text-align: left;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        
+        th {
+            background: #1e40af;
+            color: white;
+        }
+        
+        .links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        
+        .btn {
+            display: inline-block;
+            background: #2563eb;
+            color: white;
+            padding: 14px 28px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+        
+        .btn:hover {
+            background: #1e40af;
+            transform: translateY(-3px);
+        }
+        
+        footer {
+            background: #0f172a;
+            color: #cbd5e1;
+            text-align: center;
+            padding: 50px 20px;
+            font-size: 0.95rem;
+        }
+        
+        .established {
+            font-size: 1.1rem;
+            background: rgba(255,255,255,0.2);
+            display: inline-block;
+            padding: 8px 24px;
+            border-radius: 50px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Rivans_Logo.png" alt="Rivans Logo" class="logo">
+            <h1>Rivans Fraternity</h1>
+            <p class="tagline">Rivulet Sigma Omega Beta Society</p>
+            <div class="established">Est. November 18, 1978</div>
+            <p class="motto">"Huwag mang-api at huwag magpa-api"</p>
+        </header>
+
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#facts">Facts</a></li>
+                <li><a href="#links">Links</a></li>
+            </ul>
+        </nav>
+
+        <section id="about">
+            <h2>About Us</h2>
+            <p>The <strong>Rivans Fraternity</strong>, officially known as the <strong>Rivulet Sigma Omega Beta Society, Inc.</strong>, is a Philippine-based inter-collegiate service fraternity and sorority dedicated to service, brotherhood, and sisterhood.</p>
+            <p>It is part of the Philippine Fraternity Community and was founded in Pagadian City.</p>
+        </section>
+
+        <section id="facts" style="background: #f1f5f9;">
+            <h2>Key Information</h2>
+            <div class="info-grid">
+                <div class="card">
+                    <span class="fact-label">Founded</span>
+                    <strong>November 18, 1978</strong>
+                </div>
+                <div class="card">
+                    <span class="fact-label">Location</span>
+                    <strong>Pagadian City, Philippines</strong><br>
+                    Alano Mercedez Street, 7016
+                </div>
+                <div class="card">
+                    <span class="fact-label">Type</span>
+                    <strong>Service Fraternity & Sorority</strong>
+                </div>
+                <div class="card">
+                    <span class="fact-label">Motto</span>
+                    <strong>Huwag mang-api at huwag magpa-api</strong>
+                </div>
+            </div>
+
+            <table>
+                <tr><th>Property</th><th>Details</th></tr>
+                <tr><td><strong>Official Name</strong></td><td>RIVULET SIGMA OMEGE BETA SOCIETY, INC.</td></tr>
+                <tr><td><strong>Short Name</strong></td><td>Rivans Fraternity</td></tr>
+                <tr><td><strong>Country</strong></td><td>Philippines</td></tr>
+                <tr><td><strong>Headquarters</strong></td><td>Pagadian City</td></tr>
+            </table>
+        </section>
+
+        <section id="links">
+            <h2>Connect With Us</h2>
+            <div class="links">
+                <a href="https://www.facebook.com/rivansfraternity" target="_blank" class="btn">Facebook Page</a>
+                <a href="https://www.facebook.com/groups/2941914872696886/?ref=share&mibextid=NSMWBT" target="_blank" class="btn">Facebook Group</a>
+                <a href="https://github.com/rivansfraternity" target="_blank" class="btn">GitHub</a>
+                <a href="https://rivansfraternity.github.io/" target="_blank" class="btn">Official Site</a>
+                <a href="https://en.everybodywiki.com/Rivulet_Sigma_Omega_Beta_Society" target="_blank" class="btn">EverybodyWiki</a>
+                <a href="https://companieshouse.ph/rivulet-sigma-omege-beta-society-inc" target="_blank" class="btn">Companies House</a>
+                <a href="https://www.crunchbase.com/organization/rivans-fraternity" target="_blank" class="btn">Crunchbase</a>
+                <a href="https://www.wikidata.org/wiki/Q140136808" target="_blank" class="btn">Wikidata</a>
+                <a href="https://www.google.com/search?kgmid=/g/11z8pcd6vr#ebo=0" target="_blank" class="btn">Google Knowledge</a>
+            </div>
+            
+            <h2 style="margin-top: 50px;">Our Pages</h2>
+            <div class="links">
+                <a href="https://rivansfraternity.github.io/rivans.html" target="_blank" class="btn">Home</a>
+                <a href="https://rivansfraternity.github.io/about.html" target="_blank" class="btn">About</a>
+                <a href="https://rivansfraternity.github.io/newsarticle.html" target="_blank" class="btn">News</a>
+                <a href="https://rivansfraternity.github.io/event.html" target="_blank" class="btn">Events</a>
+                <a href="https://rivansfraternity.github.io/article.html" target="_blank" class="btn">Articles</a>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; Rivans Fraternity • Rivulet Sigma Omega Beta Society</p>
+        <p>Data sourced from Wikidata (Q140136808)</p>
+    </footer>
+</body>
+</html>
